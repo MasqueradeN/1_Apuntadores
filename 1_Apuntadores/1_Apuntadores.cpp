@@ -118,7 +118,7 @@ int main(int argc, char** argv)
     }
     else
     {
-        cout << "You trash kid xdxdxdxd";
+        cout << "You trash kid xdxdxdxd\n";
         main(argc, argv);
     }
 
